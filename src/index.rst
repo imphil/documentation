@@ -22,13 +22,42 @@ The :doc:`Implementer Guides <04_implementer/index>` aim at people who want to i
 The :doc:`Identifier Registry <05_idregistry/index>` lists all vendor identifiers used by OSD devices and products.
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Documentation Parts
+   :caption: Introduction
    :hidden:
 
    01_overview/index
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Specification
+   :hidden:
+
    02_spec/index
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: User Guides
+   :hidden:
+
    03_user/index
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Implementer Documentation
+   :hidden:
+
    04_implementer/index
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Appendix
+   :hidden:
+
    05_idregistry/index
    license
+   
+   
